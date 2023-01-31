@@ -1,0 +1,14 @@
+.card
+{
+    height:28rem;
+    width: 30rem;
+    margin: 2rem;
+    // padding: 2rem;
+    border:2px solid rgb(30, 24, 24) ;
+    .cardHeading
+    {
+        font-size: 2rem;
+        padding-bottom: 2rem;
+        color: rgb(102, 42, 124);
+    }
+}
